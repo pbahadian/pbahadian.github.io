@@ -1,0 +1,574 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CV - Paula Bahadian Moreira/title>
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/aos.css" rel="stylesheet">
+    <!-- main style -->
+    <link href="css/style.css" rel="stylesheet">
+    
+</head>
+
+<body>
+
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="status">
+
+            <div class="preloader" aria-busy="true" aria-label="Loading, please wait." role="progressbar">
+            </div>
+
+        </div>
+    </div>
+    <!-- ./Preloader -->
+    
+    <!-- header -->
+    <header class="navbar-fixed-top">
+        <nav>
+            <ul>
+                <li><a href="#about">profile</a></li>
+                <li><a href="#experience">experience</a></li>
+                <li><a href="#education">education</a></li>
+                <li><a href="#language">languages</a></li>
+                <li><a href="#projects">projects</a></li>
+                <li><a href="#interest">interests</a></li>
+                <li><a href="#contact">contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- ./header -->
+    
+    <!-- home -->
+    <div class="section" id="home" data-stellar-background-ratio="0.5">
+        <div class="container">
+            <div class="disply-table">
+                <div class="table-cell" data-aos="fade-up" data-aos-delay="0">
+                    <h4>Digital Marketing, Project Management & Web Design</h4>
+                    <h1>Paula Bahadian Moreirar</h1> </div>
+            </div>
+        </div>
+    </div>
+    <!-- ./home -->
+    
+    <!-- about -->
+    <div class="section" id="about">
+        <div class="container">
+            <div class="col-md-6" data-aos="fade-up">
+                <h4>01</h4>
+                <h1 class="size-50">Profile</h1>
+                <div class="h-50"></div>
+                <p>Expert in Digital Transformation and Innovation, Project Management, Digital Strategy, e-commerce, Digital Internationalization, Web Design, Branding and CX.</p>
+                <p>I graduated in an MBA in International Management, I have an extensive international business experience and in the past I also embarked in an entrepreneurship journey in the online travel industry. As businesses are becoming more and more digitalized I studied front-end website development to add a new skill to my business experience and since I have focused my career in the digital area.</p>
+                <p>I have worked in several projects with well known brands such as Carolina Herrera, Coca-cola, Apple and BBVA and in different sectors: luxury retail, banking, consumer goods and the travel industry.</p>
+                <p>I am well organized, I have an analytical mindset, I am able to work under pressure, I have good communication skills and I speak several languages fluently.</p>
+                <div class="h-50"></div>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-6 about-img-div">
+                <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
+                <img src="img/leti.jpg"  width="400" class="img-responsive" alt="" align="right" data-aos="fade-right" data-aos-delay="0" />
+            </div>
+        </div>
+    </div>
+    <!-- ./about -->
+    
+    <!-- experience  -->
+    <div class="section" id="experience">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>02</h4>
+                <h1 class="size-50">Professional Experience</h1>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-12">
+                <ul class="timeline">
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">August 2022 - present</p>
+                            <h3>Coca-cola Europacific Partners</h3>
+                            <h4>Digital Transformation Project Manager</h4>
+                            <p>Leading Digital Strategy and Innovation projects (i.e Metaverse presence, Supply Chain Innovation) and in charge of Coca-cola Europacific Partners digital hubs.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">April 2021 - July 2022</p>
+                            <h3>Puig - Carolina Herrera</h3>
+                            <h4>Digital Technology Project Manager</h4>
+                            <p>Technical Project Management in Carolina Herrera E-commerce site. In charge of new country rollouts, new functionalities onsite, optimization of existing features, integration with 3rd party tools, CRM projects, web accessibility and Google Analytics. Using tools like Jira, Confluence, SAP and Hybris.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">October 2019 - October 2020</p>
+                            <h3>Amadeus IT</h3>
+                            <h4>Web Designer & International Project Manager</h4>
+                            <p>In charge of project management, web design and   implementation of Amadeus loyalty program. My main task was to develop guest portal websites for Amadeus clients (hotels) managing several projects simultaneously between the different teams involved (Web, GMS, iHotelier) for EMEA, APAC and LATAM regions. I was also in charge to link the websites to GMS (a CRM for hotel guest management) and the hotel booking engine through an API and to provide training of the software to the customer and other teams within Amadeus. </p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">January 2019 - October 2019</p>
+                            <h3>Freelance</h3>
+                            <h4>Front End Developer</h4>
+                            <p>Front end web design and development for several freelance projects and my own website. Knowledge of HTML, CSS, JavaScript, jQuery, Bootstrap, SQL, Angular and eager to learn new technologies.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">January 2018 - October 2019</p>
+                            <h3>The Yoga Way</h3>
+                            <h4>Entrepreneur</h4>
+                            <p>Yoga and pilates retreats organization. In charge of management, digital marketing, promotion, finance, teaching and web design.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">January 2016 - October 2017</p>
+                            <h3>Destinoyoga</h3>
+                            <h4>Entrepreneur</h4>
+                            <p>Start up creation in specialized travel. In charge of management, digital marketing strategies, business development and partner relations.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">July 2014 - July 2015</p>
+                            <h3>Apple Inc.</h3>
+                            <h4>Partner Relations Advisor EMEIA</h4>
+                            <p>Apple Developer EMEIA Team. In charge of dealing in a B2B environment with Apple partners to help them through their app development process. Managing Apple developer accounts (iOS and Mac), Volume Purchase Program for Business applications, iAd Workbench and App Review.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">December 2012 - July 2014</p>
+                            <h3>Apple Inc.</h3>
+                            <h4>Customer Relations Advisor EMEIA</h4>
+                            <p>Responsible for providing options, resolution and solutions to service providers and AppleCare representatives. Working together with other Apple departments and using tools like SAP. Responsible of communicating official positioning on company issues and making final decisions. Developing creative solutions, identifying and escalating emerging product issues and opportunities for operational improvements and suggesting improvement strategies.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">May 2012 - June 2012</p>
+                            <h3>Mr & Mrs Smith Hotels</h3>
+                            <h4>Market Development Consultant, Asia Pacific</h4>
+                            <p>Contract Project. Market research and international market development projects for Smith Hotels in China, Singapore and Hong Kong. Research of prospective partners in the Chinese market.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">January 2012 - May 2012</p>
+                            <h3>Sofitel Luxury Hotels and Resorts</h3>
+                            <h4>Marketing Executive</h4>
+                            <p>Internship. Branding and marketing of Sofitel Australia/Pacific. Social media, promotions and sponsorships.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">April 2010 - November 2010</p>
+                            <h3>Expo Shanghai 2010</h3>
+                            <h4>VIP & Protocol Department Assistant</h4>
+                            <p>Organizing VIP & authorities visits to the Spanish pavillion in Shanghai Expo 2010. Event management, assistance to VIPS, press and international delegations.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">February 2009 - February 2010</p>
+                            <h3>BBVA</h3>
+                            <h4>Business Analyst, Global Businesses Asia (Beijing Rep. Office)</h4>
+                            <p>Internship. Providing a daily economic briefing of the Chinese market, analyzing new business opportunities in China and carrying out economic reports. Involved in a new business project in auto finance for the Chinese market (market research and market implementation strategies).</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">October 2007 - October 2008</p>
+                            <h3>Spanish Embassy and Commercial Office in Bangkok</h3>
+                            <h4>International Business Consultant</h4>
+                            <p>Internship. Carrying out market studies and economic reports, preparation of trade missions, promotional activities, events and exhibitions. In charge of the consumer goods section and the cosmetic sector.</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- ./experience -->
+    <!-- experience  -->
+    <div class="section" id="education">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>03</h4>
+                <h1 class="size-50">Education</h1>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-12">
+                <ul class="timeline">
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">November 2020</p>
+                            <h3>Google Analytics Individual Qualification</h3>
+                            <h4>Google</h4>
+                        </div>
+                    </li>   
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">January 2019 - June 2019</p>
+                            <h3>Front End Development</h3>
+                            <h4>IT Academy</h4>
+                            <p>Website development bootcamp: HTML, CSS, Javascipt, Bootstrap, Angular, jQuery, SQL.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2016</p>
+                            <h3>E-commerce Program</h3>
+                            <h4>Barcelona Activa</h4>
+                            <p>Main Subjects: Entrepreneurship, Digital Marketing, Business Organization, Finance.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2016</p>
+                            <h3>Digital Marketing Course</h3>
+                            <h4>Universitat de Barcelona - Google</h4>
+                            <p>Main Subjects: Digital Marketing Introduction, Social Media Marketing, Google Ads, Google Analytics, SEO, Mobile Marketing, Email Marketing.</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2012</p>
+                            <h3>Marketing and Management Postgraduate Diploma</h3>
+                            <h4>Western Institute of Tehcnology, Melbourne</h4>
+                            <p>Main Subjects: International Marketing, Branding, Product Management, Digital Marketing Strategies, Consumer Behaviour.</p>
+                        </div>
+                        <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2011</p>
+                            <h3>Business Chinese Language Course</h3>
+                            <h4>Shanghai Jiaotong University</h4>
+                            <p>HSK level 4.</p>
+                        </div>
+                    </li>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2007</p>
+                            <h3>MBA in International Management</h3>
+                            <h4>ICEX - CECO</h4>
+                            <p>Main Subjects: International Marketing, Economics, International Business Finance, Business Strategy, Logistics, Communication, Leadership, International Business Law, Japanese Language.</p>
+                        </div>
+                    </li>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2005 - 2006</p>
+                            <h3>Master's Degree in International Relations and Communication</h3>
+                            <h4>Universidad Complutense de Madrid</h4>
+                            <p>Main Subjects: Foreign Affairs, Politics, European Union, Diplomacy, International Security.</p>
+                        </div>
+                    </li>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2001 - 2003</p>
+                            <h3>BA Hons English Culture and Language Studies</h3>
+                            <h4>University of Kent at Canterbury</h4>
+                        </div>
+                    </li>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2000 - 2005</p>
+                            <h3>Bachelors Degree in Translation and Interpreting Languages</h3>
+                            <h4>Universidad Autonoma de Barcelona</h4>
+                            <p>Main Subjects: Italian, English, German, Linguistics, Business Translation, Legal Translation, Interpreting.</p>
+                        </div>
+                    </li>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- ./experience -->
+<!-- experience  -->
+    <div class="section" id="language">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>04</h4>
+                <h1 class="size-50">Language Skills</h1>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-12">
+                <ul class="timeline">
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                    
+                            <h3>Spanish</h3>
+                            <h4>Native Speaker</h4>
+                            
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>Catalan</h3>
+                            <h4>Native Speaker</h4>
+                           
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>English</h3>
+                            <h4>Full Professional. C2 level</h4>
+                            <p>University of Kent</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>Italian</h3>
+                            <h4>Professional. Advanced level</h4>
+                            <p>Università S. Pio V, Roma (Erasmus Progam)</p>
+                            <p>BA Translation and Interpreting Languages (UAB)</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>Chinese</h3>
+                            <h4>HSK 4 Level</h4>
+                            <p>Shanghai Jiaotong University</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>German</h3>
+                            <h4>Intermediate level</h4>
+                            <p>BA Translation and Interpreting Languages (UAB)</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>French</h3>
+                            <h4>Intermediate Level</h4>
+                            <p>University of Kent</p>
+                        </div>
+                    </li>
+                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                        
+                            <h3>Japanese</h3>
+                            <h4>Beginner level</h4>
+                            <p>EOI</p>
+                            <p>MBA in International Management</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <!-- projects -->
+    <div class="section" id="projects">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>05</h4>
+                <h1 class="size-50">Projects</h1> 
+            </div>
+            <!-- main container -->
+            <div class="main-container portfolio-inner clearfix">
+                <!-- portfolio div -->
+                <div class="portfolio-div">
+                    <div class="portfolio">
+                        <!-- portfolio_filter -->
+                        <div class="categories-grid wow fadeInLeft">
+                            <nav class="categories">
+                                <ul class="portfolio_filter">
+                                    <li><a href="" class="active" data-filter="*">All</a></li>
+
+                                    <li><a href="" data-filter=".logo">Amadeus</a></li>
+                                    <li><a href="" data-filter=".graphics">The Yoga way</a></li>
+                                    <li><a href="" data-filter=".photography">Puig</a></li>
+                                   
+                                </ul>
+                            </nav>
+                        </div>
+                        <!-- portfolio_filter -->
+                        
+                        <!-- portfolio_container -->
+                        <div class="no-padding portfolio_container clearfix" data-aos="fade-up">
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads photography">
+                                <a id="#" href="https://www.carolinaherrera.com/" class="portfolio_item" target="_blank"> <img src="img/portfolio/chlogo.png" alt="carolina herrera" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads logo">
+                                <a id="#" href="https://www.riverton.se/en/loyalty-login" class="portfolio_item" target="_blank"> <img src="img/portfolio/riverton2.png" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 ads logo">
+                                <a id="#" href="https://bookingrevolution.village-hotels.co.uk/" class="portfolio_item" target="_blank"> <img src="img/portfolio/Village.jpg" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads logo">
+                                <a id="#" href="https://www.muliaprivilege.com/" class="portfolio_item" target="_blank"> <img src="img/portfolio/logo.png" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads logo">
+                                <a id="#" href="https://ecko.timhotel.com/" class="portfolio_item" target="_blank"> <img src="img/portfolio/timhotel.jpg" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            <!-- single work -->
+                            <div class="col-md-4 col-sm-6 ads graphics">
+                                <a id="#" href="https://lettiev.github.io/theyogaway/" class="portfolio_item" target="_blank"> <img src="img/portfolio/1.png" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                            
+                             <!-- single work 
+                            <div class="col-md-4 col-sm-6 ads logo">
+                                <a id="#" href="https://mysudima.sudimahotels.com/" class="portfolio_item" target="_blank"> <img src="img/portfolio/Sudima.svg" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div>
+                            <!-- end single work -->
+                               <!-- single work -->
+                           <!-- <div class="col-md-4 col-sm-6 ads photography">
+                                <a id="#" href="https://lettiev.github.io/reloj/" class="portfolio_item" target="_blank"> <img src="img/portfolio/reloj.png" alt="image" class="img-responsive" />
+                                    
+                                </a>
+                            </div> -->
+                            <!-- end single work -->
+
+                            
+                        </div>
+                        <!-- end portfolio_container -->
+                    </div>
+                    <!-- portfolio -->
+                </div>
+                <!-- end portfolio div -->
+            </div>
+            <!-- end main container -->
+        </div>
+    </div>
+    <!-- ./projects -->
+    <div class="section" id="interest">
+        <div class="container">
+            <div class="col-md-6" data-aos="fade-up">
+                <h4>06</h4>
+                <h1 class="size-50">Interests</h1>
+                <div class="h-50"></div>
+                <p>I enjoy traveling, photography, painting, reading, art, gastronomy, yoga and pilates. I am also a certified teacher in both disciplines.</p>
+                <ul class="social">
+                    <li><a href="https://www.instagram.com/viajeraenlaluna/" target="_blank"><i class="ion-social-instagram"></i></a></li>
+                </ul>
+                <div class="h-50"></div> 
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-6 about-img-div">
+                <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
+                <img src="img/ganges.JPG" width="400" class="img-responsive" alt="" align="right" data-aos="fade-right" data-aos-delay="0" />
+            </div>
+        </div>
+    </div>
+    
+    <!-- contact -->
+    <div class="section" id="contact">
+        <div class="container">
+            <div class="col-md-12">
+                <h4>07</h4>
+                <h1 class="size-50">Contact Details</h1>
+                <div class="h-50"></div>
+            </div>
+            <div class="col-md-4" data-aos="fade-up">
+
+                <h3>Phone Number</h3>
+                <a href="tel:+34600222102">+34600222102</a>
+                <h3>Email</h3>
+                <a href="mailto:leticia.vazquez.najar@gmail.com">leticia.vazquez.najar@gmail.com</a>
+
+               
+
+               
+            </div>
+        </div>
+             <div class="section" id="contact">
+        <div class="container">
+            <div class="col-md-12">
+
+
+
+                <h4>References available upon request</h4>
+               
+                </div>
+            </div>
+           
+    <!-- ./contact -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!--  plugins  -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+
+    <!--  main script  -->
+    <script src="js/custom.js"></script>
+</body>
+
+</html>
